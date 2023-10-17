@@ -1,0 +1,3 @@
+research DB's: postgresql, mangoDB, mySQL, other open source dbs
+make a domain
+
